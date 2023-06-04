@@ -19,12 +19,12 @@ To write a program to find the GCD of two numbers using function.
 
 ## Program:
 ```
-/*
 Program to find the gcd of two number using function.
 Developed by: DEVADARSHAN A S
 RegisterNumber:  212222110007
-*/
+
 ```
+
 ```python
 import math
 def gcd():
